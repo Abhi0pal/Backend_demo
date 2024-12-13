@@ -1,19 +1,15 @@
 {
-  "name": "chaibackend",
+  "name": "happy",
   "version": "1.0.0",
-  "description": "a basic app to deploy",
+  "description": "we work on the backend project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "chai",
-    "backend"
+    "javaScript",
+    "happy"
   ],
-  "author": "Abhishek Pal",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2"
-  }
+  "author": "Abhishek pal",
+  "license": "ISC"
 }
